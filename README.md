@@ -117,6 +117,10 @@ Este projeto está configurado para execução via **Expo Snack**.
 
 3. Execute no navegador:
    - Utilize o preview web disponível no Snack
+  
+## Observação
+ -  Imagens ficam salvas apenas temporariamente por falta de recursos de armazenamento.
+ -  Ao inicializar o App, será redirecionado diretamente a Home (tela inicial) para facilitar a navegação. Para criar contas e testar o Login/Cadastro, acesse o icone de configurações e clique "Sair".
 
 ---
 
