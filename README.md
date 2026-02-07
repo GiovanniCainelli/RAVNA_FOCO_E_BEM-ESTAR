@@ -21,9 +21,9 @@ O projeto conta com:
 - gerenciamento de estado
 - múltiplas funcionalidades voltadas ao bem-estar e organização acadêmica
 
-🔗 O projeto pode ser visualizado via **Expo Snack**:  
-https://snack.expo.dev/@cainellinelli/ravna
+🔗 O projeto pode ser visualizado via **Expo Snack** utilizando o aplicativo **Expo Go**, disponível pra Android: 
 
+https://snack.expo.dev/@cainellinelli/ravna-back
 ---
 
 ## ✨ Funcionalidades Principais
